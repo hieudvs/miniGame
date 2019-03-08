@@ -1,0 +1,26 @@
+
+.system{
+	padding: 2em 0;
+}
+.system h1{
+	padding:1em 0 1em; 
+	font-size: 18px;
+	font-weight: bold;
+	color: #0FBE7C;
+}
+.system .info, .system .games, .system .events{
+	background-color: #EEE;
+	padding: 1em 1em;
+	border-radius: 30px;
+	border-top:4px solid #CCC;
+	border-left:4px solid #CCC;
+	margin-top: 1em;
+}
+.system .info .disabled{
+	background-color: #DDD;
+	font-weight:bold;
+}
+.system .info a{
+	border-radius: 20px;
+	margin-top: 10px;
+}
